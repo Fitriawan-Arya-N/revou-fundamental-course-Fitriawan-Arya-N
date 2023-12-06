@@ -13,4 +13,4 @@ Mini project ini merupakan tugas akhir Software Engineer Fundamental Course dari
 <img src="https://skillicons.dev/icons?i=html,css,js">
 
 ## Live Demo
-https://revou-fundamental-course.github.io/27-nov-23-Fitriawan-Arya-N/
+https://fitriawan-arya-n.github.io/revou-fundamental-course-Fitriawan-Arya-N/
