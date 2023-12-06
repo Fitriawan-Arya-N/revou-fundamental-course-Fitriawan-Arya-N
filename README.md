@@ -9,6 +9,10 @@ Mini project ini merupakan tugas akhir Software Engineer Fundamental Course dari
 - Menghitung Luas dan Keliling Segitiga
 - Menampilkan hasil beserta cara perhitungannya
 
+### Ketentuan
+![image](https://github.com/Fitriawan-Arya-N/revou-fundamental-course-Fitriawan-Arya-N/assets/76588831/f6e61964-569a-45c4-8717-46c3652027dd)
+
+
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js">
 
