@@ -4,6 +4,9 @@
 
 Mini project ini merupakan tugas akhir Software Engineer Fundamental Course dari RevoU untuk menghitung Luas dan Keliling segitiga
 
+## Live Demo
+https://fitriawan-arya-n.github.io/revou-fundamental-course-Fitriawan-Arya-N/
+
 ### 👉 Fitur
 - Rumus Luas dan Keliling Segitiga
 - Menghitung Luas dan Keliling Segitiga
@@ -24,9 +27,6 @@ Workflow:
 10. After finish your website, upload Source Code in GitHub Classroom and publish the website in Github Pages
 11. Submit URL repository and published website through dedicated Typeform submission that will be opened on Wednesday week 2 
 
-
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js">
 
-## Live Demo
-https://fitriawan-arya-n.github.io/revou-fundamental-course-Fitriawan-Arya-N/
